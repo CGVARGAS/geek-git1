@@ -58,8 +58,11 @@ exemplo Windows, Linux e Mac OS.
 
 Seu nome - [@SeuTwiter](https://twitter.com/seuTwiter) - seuemail@gmail.com
 Distribuido sobre licença. 
+
 Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto]
+
 (https://github.com/seuusuario)
 
 
